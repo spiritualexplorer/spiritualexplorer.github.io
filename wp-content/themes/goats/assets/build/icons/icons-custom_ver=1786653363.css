@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "icons";
+    src: url("/wp-content/themes/Goats/assets/build/icons/icons.woff2?c369d9144ea1c7da89456896cf4d72c9") format("woff2");
+
+    font-display: swap;}
+
+:root {
+  --icon-arrow-left: "\f101";
+}
+
+/* Base icon class */
+.icon {
+line-height: 0;
+}
+.icon:before {
+  font-family: icons !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+}
+
+/* Icon classes using custom properties */
+.icon-arrow-left::before {
+  content: var(--icon-arrow-left);
+}
