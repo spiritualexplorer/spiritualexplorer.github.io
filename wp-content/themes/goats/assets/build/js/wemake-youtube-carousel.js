@@ -22,27 +22,27 @@ const wemakeVideos = [
     alt: "Loreve — branding i e-commerce marki modowej (realizacja goats.)"
   },
   {
-    id: "lYTDEIVQljQ",
+    id: "UP7w5f64lRU",
     label: "Laura Coco Reiss",
     alt: ""
   },
   {
-    id: "lYTDEIVQljQ",
+    id: "Gv8ZzVkr_EI",
     label: "Sockio",
     alt: "Sockio — branding marki skarpetek (realizacja goats.)"
   },
   {
-    id: "lYTDEIVQljQ",
+    id: "j0AcBjJxOHg",
     label: "Rising Sons",
     alt: "Rising Sons — branding i opakowania marki piwnej (realizacja goats.)"
   },
   {
-    id: "lYTDEIVQljQ",
+    id: "PYAF7Y3AQyI",
     label: "Flight Mentor",
     alt: ""
   },
   {
-    id: "lYTDEIVQljQ",
+    id: "s2y5Tc5ks1A",
     label: "Skandom",
     alt: "Skandom — branding i strona internetowa marki domów szkieletowych (realizacja goats.)"
   }
