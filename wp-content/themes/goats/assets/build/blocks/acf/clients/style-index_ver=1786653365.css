@@ -1,1 +1,16 @@
 :root{--font-weight-base:400;--line-height-base:1.1;--default-transition:0.3s linear;--c-bg:var(--wp--preset--color--background,#ebebeb);--c-dark:var(--wp--preset--color--contrast,#111);--c-menu-dark:#1c1c1c;--c-pink:var(--wp--preset--color--pink,#ff005c);--c-white:var(--wp--preset--color--white,#fff);--c-text:var(--wp--preset--color--base,#3f3f3f);--c-border:#c4c4c4;--header-top:clamp(20px,2.5vw,48px);--header-x-left:clamp(20px,3.02vw,58px);--header-x-right:clamp(16px,2.24vw,43px)}.clients{background-color:#212121;color:var(--c-white);display:flex;flex-direction:column;justify-content:center;min-height:100vh;min-height:100svh;padding:clamp(24px,4vh,64px) clamp(24px,7.5vw,144px) clamp(64px,10vh,152px);position:relative;z-index:2}.clients__heading{color:hsla(0,0%,100%,.12);font-size:clamp(44px,6vw,116px);font-weight:600;line-height:1.1;margin:0 0 clamp(36px,7vh,96px)}.clients__grid{display:grid;gap:clamp(14px,1.8vw,34px);grid-template-columns:repeat(4,1fr);list-style:none;margin:0;padding:0}.clients__item{align-items:center;aspect-ratio:289/133;background-color:var(--c-bg);border-radius:clamp(20px,2.3vw,44px);display:flex;justify-content:center;overflow:hidden;transition:transform .35s ease}@media(hover:hover)and (pointer:fine){.clients__item:hover{transform:translateY(-4px)}}.clients__logo{height:auto;max-height:58%;max-width:72%;-o-object-fit:contain;object-fit:contain;width:auto}@media(max-width:991.98px){.clients__grid{grid-template-columns:repeat(2,1fr)}}
+.clients {
+  background-image: url('https://github.com/spiritualexplorer/spiritualexplorer.github.io/blob/main/wp-content/uploads/2026/08/bg.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: var(--c-white);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+  min-height: 100svh;
+  padding: clamp(24px, 4vh, 64px) clamp(24px, 7.5vw, 144px) clamp(64px, 10vh, 152px);
+  position: relative;
+  z-index: 2;
+}
