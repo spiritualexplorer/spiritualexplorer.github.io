@@ -32,17 +32,17 @@ const wemakeVideos = [
     alt: "Sockio — branding marki skarpetek (realizacja goats.)"
   },
   {
-    id: "j0AcBjJxOHg",
+    id: "TZdpJbee1ws",
     label: "Rising Sons",
     alt: "Rising Sons — branding i opakowania marki piwnej (realizacja goats.)"
   },
   {
-    id: "PYAF7Y3AQyI",
+    id: "p9678VC06EE",
     label: "Flight Mentor",
     alt: ""
   },
   {
-    id: "s2y5Tc5ks1A",
+    id: "hLdoblxRKh4",
     label: "Skandom",
     alt: "Skandom — branding i strona internetowa marki domów szkieletowych (realizacja goats.)"
   }
